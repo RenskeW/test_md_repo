@@ -19,6 +19,7 @@ def function():
 ## Make a toggle
 <details>
 <summary>This is a toggle list</summary>
+
 - List item 1
 - List item 2
 - Another list item 
