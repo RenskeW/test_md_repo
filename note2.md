@@ -8,3 +8,12 @@ interesting claim 2 [@committeeonreproducibilityandreplicabilityinscienceReprodu
 
 reference to [other file](./file1.md)
 
+# How to write clean code
+
+## Python docstrings
+```python
+def function():
+    blah = []
+    return blah
+
+```
