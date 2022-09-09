@@ -8,8 +8,6 @@ interesting claim 2 [@committeeonreproducibilityandreplicabilityinscienceReprodu
 
 reference to [other file](./file1.md)
 
-# How to write clean code
-
 ## Python docstrings
 ```python
 def function():
@@ -17,3 +15,11 @@ def function():
     return blah
 
 ```
+
+## Make a toggle
+<details>
+<summary>This is a toggle list</summary>
+- List item 1
+- List item 2
+- Another list item 
+</details>
